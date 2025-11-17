@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "590805319674",
+    "project_id": "tugasakhir-30ad6",
+    "storage_bucket": "tugasakhir-30ad6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590805319674:android:63659a4af00cef833aae43",
+        "android_client_info": {
+          "package_name": "com.example.tugas_akhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590805319674-hqir2tad7rgn745abdemlplho4gfr6l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tugas_akhir",
+            "certificate_hash": "fd19fbe28a9c26531569a6cdebfec48160471bf1"
+          }
+        },
+        {
+          "client_id": "590805319674-6qtfivgb42ga13sl6khf38re2ckaq7r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSwNTl8XUJW1MzLRgWo6fttuWSh2xwYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590805319674-6qtfivgb42ga13sl6khf38re2ckaq7r1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590805319674-piaj1mcobpckc0b36045ebhr5ap3ip9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tugasAkhir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
